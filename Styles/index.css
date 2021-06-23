@@ -71,10 +71,15 @@ main{
       align-self: flex-end;
       align-items: center;
 }
+.sub__heading{
+      line-height: 1.5;
+      color: #494949;
+}
 .price{
       margin-left: auto;
       padding: 6px 20px;
       background-color: whitesmoke;
+      font-weight: 600;
 
 }
 
